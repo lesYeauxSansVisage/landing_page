@@ -8,8 +8,8 @@
 
 :root {
   --container-max-size: 1200px;
-  --main-color: #1f2937;
-  --secondary-color: #3882f6;
+  --main-color: #111111;
+  --secondary-color: #525252;
   --text-color: #f9faf8;
   --text-secondary-color: #cacaca;
 }
